@@ -558,7 +558,7 @@ section .melayang {
   font-family: 'Futura';
   font-style: italic;
   padding-left: 10vh;
-  padding-right: 55vh;
+  padding-right: 65vh;
   padding-top: 25vh;
   text-align: center justify;
   color: white;
@@ -669,8 +669,8 @@ background-color: #F8C471;
   width: 160px;
   height: 50px;
   font-size: 13px;
-  margin-left: 160px;
-  margin-top: 360px;
+  margin-left: 100px;
+  margin-top: 380px;
 }
 ol {
 display: block;
